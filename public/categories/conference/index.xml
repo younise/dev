@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Conference on Emad Younis</title>
+    <link>http://localhost:52725/bookworm-light/categories/conference/</link>
+    <description>Recent content in Conference on Emad Younis</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 13 Oct 2014 09:40:32 -0700</lastBuildDate>
+    <atom:link href="http://localhost:52725/bookworm-light/categories/conference/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>VeeamON 2014 Recap</title>
+      <link>http://localhost:52725/bookworm-light/blog/2014-10-13-veeamon-2014-recap/</link>
+      <pubDate>Mon, 13 Oct 2014 09:40:32 -0700</pubDate>
+      <guid>http://localhost:52725/bookworm-light/blog/2014-10-13-veeamon-2014-recap/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://emadyounis.com/assets/img/2014/10/veeamon.jpg?resize=300%2C39&#34; alt=&#34;veeamon&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Last week I had the opportunity to be one of the 1200 + (estimated) in attendance for &lt;a href=&#34;http://go.veeam.com/veeamon&#34;&gt;VeeamON&lt;/a&gt; in Las Vegas, a conference themed around datacenter availability. Of course remember what happens in Vegas, goes on twitter #VeeamON. The conference was filled with lots of activities such as lab warz, tour of the modern datacenter and training for the Veeam Certified Engineer (VMCE) just to name a few. Although three days, well four for those who attended the VMCE training, the agenda was quite full:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

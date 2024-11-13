@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Architecture on Emad Younis</title>
+    <link>http://localhost:52725/bookworm-light/tags/architecture/</link>
+    <description>Recent content in Architecture on Emad Younis</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 07 May 2018 14:07:18 -0700</lastBuildDate>
+    <atom:link href="http://localhost:52725/bookworm-light/tags/architecture/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>vCenter Server Architecture Part 1 &amp;#8211; The Basics</title>
+      <link>http://localhost:52725/bookworm-light/blog/2018-05-07-vcenter-server-architecture-part-1-the-basics/</link>
+      <pubDate>Mon, 07 May 2018 14:07:18 -0700</pubDate>
+      <guid>http://localhost:52725/bookworm-light/blog/2018-05-07-vcenter-server-architecture-part-1-the-basics/</guid>
+      <description>&lt;p&gt;With the release of &lt;a href=&#34;http://emadyounis.com/vcenter/vcenter-server-6-7-whats-new-rundown/&#34;&gt;vSphere 6.7&lt;/a&gt; and 6.5 U2 comes architectural changes for vCenter Server. vCenter Server is going back to its roots of a simplified deployment model. vCenter Server used to be a single node deployment. The only debate was about its availability. Over time the architecture of vCenter Server has changed introducing a distributed deployment model. Core services like inventory, web client, SSO, and vCenter could run on separate nodes. vCenter Server had the potential of becoming six nodes in this model when adding the VCDB and VUM. The distributed deployment model became too complex for management, maintenance, and upgrades.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

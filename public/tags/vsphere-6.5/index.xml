@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>VSphere 6.5 on Emad Younis</title>
+    <link>http://localhost:52725/bookworm-light/tags/vsphere-6.5/</link>
+    <description>Recent content in VSphere 6.5 on Emad Younis</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 19 Mar 2018 11:16:36 -0700</lastBuildDate>
+    <atom:link href="http://localhost:52725/bookworm-light/tags/vsphere-6.5/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New Resource &amp;#8211; The VMware vSphere 6.5 Upgrade eBook</title>
+      <link>http://localhost:52725/bookworm-light/blog/2018-03-19-new-resource-vmware-vsphere-6-5-upgrade-ebook/</link>
+      <pubDate>Mon, 19 Mar 2018 11:16:36 -0700</pubDate>
+      <guid>http://localhost:52725/bookworm-light/blog/2018-03-19-new-resource-vmware-vsphere-6-5-upgrade-ebook/</guid>
+      <description>&lt;p&gt;Over the past year I have written several blog posts and conducted workshops on vSphere 6.5 upgrades. The intent was to help customers learn about the upgrade concepts and planning. Only by getting familiar with the concepts and planning accordingly will the execution be successful. Part of the upgrade journey is knowing what resources are available, where to find them, and how to use them . It gives me great pleasure to announce “&lt;a href=&#34;https://secure.vmware.com/45026_REG?touch=1&amp;amp;cid=70134000001SpfU&#34;&gt;The Upgrading to VMware vSphere 6.5″ eBook&lt;/a&gt;. This is a new and free resource to help guide VMware customers with all stages of the vSphere 6.5 upgrade process. Let’s take a look on what’s included inside this new resource and help you impress your management and colleagues with your vSphere upgrade knowledge.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>vCenter Server Appliance (VCSA) 6.5 Installer macOS Ovftool Error</title>
+      <link>http://localhost:52725/bookworm-light/blog/2016-11-21-vcenter-server-appliance-vcsa-6-5-installer-macos-ovftool-error/</link>
+      <pubDate>Mon, 21 Nov 2016 12:42:43 -0800</pubDate>
+      <guid>http://localhost:52725/bookworm-light/blog/2016-11-21-vcenter-server-appliance-vcsa-6-5-installer-macos-ovftool-error/</guid>
+      <description>&lt;p&gt;Recently, some macOS Sierra users have had an issue with the VCSA 6.5 installer. At the “Set up appliance VM” (step 5), the VCSA deployment and storage sizes are not available. The following error is received &lt;strong&gt;“A problem occurred while reading the OVF file.. Error: ovftool is not available”&lt;/strong&gt;. Let me start by saying this is &lt;strong&gt;not&lt;/strong&gt; an issue with the VCSA 6.5 ISO or installer, it has to do with a change in Sierra. Also, before I go any further, Sierra &lt;strong&gt;is currently not supported&lt;/strong&gt; with the VCSA 6.5 installer. Engineering is working to support Sierra in a future update. The supported system requirements for the VCSA installer are &lt;span style=&#34;color: #0000ff;&#34;&gt;&lt;strong&gt;&lt;a href=&#34;http://pubs.vmware.com/vsphere-65/index.jsp#com.vmware.vsphere.install.doc/GUID-BA4FA18C-1049-42AA-A5CD-DE863565251B.html#GUID-BA4FA18C-1049-42AA-A5CD-DE863565251B&#34;&gt;here&lt;/a&gt;&lt;/strong&gt;&lt;/span&gt;. With that said, I want to shed more light on why this is happening and what options are available with Sierra.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>vCenter Server Appliance (VCSA) 6.5 Installer Improvements</title>
+      <link>http://localhost:52725/bookworm-light/blog/2016-11-15-vcenter-server-appliance-vcsa-6-5-installer-improvements/</link>
+      <pubDate>Tue, 15 Nov 2016 06:57:47 -0800</pubDate>
+      <guid>http://localhost:52725/bookworm-light/blog/2016-11-15-vcenter-server-appliance-vcsa-6-5-installer-improvements/</guid>
+      <description>&lt;p&gt;The vCenter Server Appliance (VCSA) 6.5 has significant new features and improvements mentioned &lt;strong&gt;&lt;a href=&#34;http://emadyounis.com/vcenter/vcenter-server-appliance-vcsa-6-5-whats-new-rundown/&#34;&gt;here&lt;/a&gt;&lt;/strong&gt;. One area of notice is the installer, which in this release not only has a new look and feel but other improvements. These improvements are not only visible from the ISO, but also during the deployment. The end result is a better experience throughout the VCSA deployment process. Let’s jump in and take a closer look.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>vCenter Server Appliance (VCSA) 6.5 What&amp;#8217;s New Rundown</title>
+      <link>http://localhost:52725/bookworm-light/blog/2016-10-31-vcenter-server-appliance-vcsa-6-5-whats-new-rundown/</link>
+      <pubDate>Mon, 31 Oct 2016 07:05:53 -0700</pubDate>
+      <guid>http://localhost:52725/bookworm-light/blog/2016-10-31-vcenter-server-appliance-vcsa-6-5-whats-new-rundown/</guid>
+      <description>&lt;p&gt;During VMworld Barcelona 2016, VMware announced vSphere 6.5. With lots of new features and updates, this is one of the biggest vSphere releases we have had in a while. Leading the charge is none other than the vCenter Server Appliance (VCSA). VMware’s direction for vCenter Server is the VCSA and it’s quite evident from this release. The VCSA and its Windows counterpart remain on par when it comes to scalability. From an operational and feature perspective, the VCSA has advantages. This post is a quick rundown of the VCSA 6.5, I’ll go into more details in future blog posts. Time to take a look at what’s new and why migrate2vcsa you should 🙂&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

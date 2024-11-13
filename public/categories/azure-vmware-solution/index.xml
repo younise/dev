@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Azure VMware Solution on Emad Younis</title>
+    <link>http://localhost:52725/bookworm-light/categories/azure-vmware-solution/</link>
+    <description>Recent content in Azure VMware Solution on Emad Younis</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 23 Sep 2020 11:20:22 -0700</lastBuildDate>
+    <atom:link href="http://localhost:52725/bookworm-light/categories/azure-vmware-solution/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Overview of Azure VMware Solution Next Evolution</title>
+      <link>http://localhost:52725/bookworm-light/blog/2020-09-23-overview-of-azure-vmware-solution-next-evolution/</link>
+      <pubDate>Wed, 23 Sep 2020 11:20:22 -0700</pubDate>
+      <guid>http://localhost:52725/bookworm-light/blog/2020-09-23-overview-of-azure-vmware-solution-next-evolution/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: #ff0000;&#34;&gt;Updated 3/18/21 to include changes to the service&lt;/span&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;span data-preserver-spaces=&#34;true&#34;&gt;The general availability (GA) for the next evolution of Azure VMware Solution (AVS) was announced &lt;del&gt;yesterday&lt;/del&gt; during the &lt;a href=&#34;https://news.microsoft.com/ignite-2020-book-of-news/#158-next-generation-azure-vmware-solution-now-generally-available&#34;&gt;Microsoft Ignite 2020&lt;/a&gt; virtual conference. This is a joint partnership between Microsoft and VMware, where Azure VMware Solution is a Microsoft managed service built on Azure bare metal infrastructure and cloud verified by VMware. The initial launch of the Azure VMware Solution in May of 2019 was by CloudSimple; this latest release is built and architected by Microsoft, providing an integrated experience with Azure services. Azure VMware Solution is currently available in the following 10 regions: East US, North Central US, West US, UK South, Japan East, West Europe, North Europe, Canada Central, Australia East, and Southeast Asia. More regions will be available in the future; additional details can be found by searching the &lt;/span&gt;&lt;a href=&#34;https://azure.microsoft.com/en-us/global-infrastructure/services/?products=azure-vmware&amp;amp;regions=all&#34;&gt;&lt;span data-preserver-spaces=&#34;true&#34;&gt;Microsoft Products available by region page&lt;/span&gt;&lt;/a&gt;&lt;span data-preserver-spaces=&#34;true&#34;&gt;. Customers running the CloudSimple Azure VMware Solution version also have a &lt;/span&gt;&lt;a href=&#34;https://docs.microsoft.com/en-us/azure/azure-vmware/faq&#34;&gt;&lt;span data-preserver-spaces=&#34;true&#34;&gt;migration path to this latest release&lt;/span&gt;&lt;/a&gt;&lt;span data-preserver-spaces=&#34;true&#34;&gt;, leveraging VMware HCX.&lt;/span&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

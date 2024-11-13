@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Emad Younis</title>
+    <link>http://localhost:52725/bookworm-light/tags/</link>
+    <description>Recent content in Tags on Emad Younis</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 23 Sep 2020 11:20:22 -0700</lastBuildDate>
+    <atom:link href="http://localhost:52725/bookworm-light/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure</title>
+      <link>http://localhost:52725/bookworm-light/tags/azure/</link>
+      <pubDate>Wed, 23 Sep 2020 11:20:22 -0700</pubDate>
+      <guid>http://localhost:52725/bookworm-light/tags/azure/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cloud</title>
+      <link>http://localhost:52725/bookworm-light/tags/cloud/</link>
+      <pubDate>Wed, 23 Sep 2020 11:20:22 -0700</pubDate>
+      <guid>http://localhost:52725/bookworm-light/tags/cloud/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Microsoft</title>
+      <link>http://localhost:52725/bookworm-light/tags/microsoft/</link>
+      <pubDate>Wed, 23 Sep 2020 11:20:22 -0700</pubDate>
+      <guid>http://localhost:52725/bookworm-light/tags/microsoft/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>VMware Cloud</title>
+      <link>http://localhost:52725/bookworm-light/tags/vmware-cloud/</link>
+      <pubDate>Wed, 23 Sep 2020 11:20:22 -0700</pubDate>
+      <guid>http://localhost:52725/bookworm-light/tags/vmware-cloud/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>GCVE</title>
+      <link>http://localhost:52725/bookworm-light/tags/gcve/</link>
+      <pubDate>Mon, 06 Jul 2020 11:22:26 -0700</pubDate>
+      <guid>http://localhost:52725/bookworm-light/tags/gcve/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Google Cloud</title>
+      <link>http://localhost:52725/bookworm-light/tags/google-cloud/</link>
+      <pubDate>Mon, 06 Jul 2020 11:22:26 -0700</pubDate>
+      <guid>http://localhost:52725/bookworm-light/tags/google-cloud/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>VMware</title>
+      <link>http://localhost:52725/bookworm-light/tags/vmware/</link>
+      <pubDate>Mon, 06 Jul 2020 11:22:26 -0700</pubDate>
+      <guid>http://localhost:52725/bookworm-light/tags/vmware/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>VMware HCX</title>
+      <link>http://localhost:52725/bookworm-light/tags/vmware-hcx/</link>
+      <pubDate>Mon, 06 Jul 2020 11:22:26 -0700</pubDate>
+      <guid>http://localhost:52725/bookworm-light/tags/vmware-hcx/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>HCX</title>
+      <link>http://localhost:52725/bookworm-light/tags/hcx/</link>
+      <pubDate>Tue, 17 Mar 2020 08:12:40 -0700</pubDate>
+      <guid>http://localhost:52725/bookworm-light/tags/hcx/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MoREF ID</title>
+      <link>http://localhost:52725/bookworm-light/tags/moref-id/</link>
+      <pubDate>Tue, 17 Mar 2020 08:12:40 -0700</pubDate>
+      <guid>http://localhost:52725/bookworm-light/tags/moref-id/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>VM InstanceUUID</title>
+      <link>http://localhost:52725/bookworm-light/tags/vm-instanceuuid/</link>
+      <pubDate>Tue, 17 Mar 2020 08:12:40 -0700</pubDate>
+      <guid>http://localhost:52725/bookworm-light/tags/vm-instanceuuid/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>VCSA</title>
+      <link>http://localhost:52725/bookworm-light/tags/vcsa/</link>
+      <pubDate>Mon, 22 Oct 2018 07:29:58 -0700</pubDate>
+      <guid>http://localhost:52725/bookworm-light/tags/vcsa/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>VCSA 6.7</title>
+      <link>http://localhost:52725/bookworm-light/tags/vcsa-6.7/</link>
+      <pubDate>Mon, 22 Oct 2018 07:29:58 -0700</pubDate>
+      <guid>http://localhost:52725/bookworm-light/tags/vcsa-6.7/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hybrid Cloud Extension</title>
+      <link>http://localhost:52725/bookworm-light/tags/hybrid-cloud-extension/</link>
+      <pubDate>Wed, 19 Sep 2018 15:02:04 -0700</pubDate>
+      <guid>http://localhost:52725/bookworm-light/tags/hybrid-cloud-extension/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>NSX</title>
+      <link>http://localhost:52725/bookworm-light/tags/nsx/</link>
+      <pubDate>Wed, 19 Sep 2018 15:02:04 -0700</pubDate>
+      <guid>http://localhost:52725/bookworm-light/tags/nsx/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>VMC</title>
+      <link>http://localhost:52725/bookworm-light/tags/vmc/</link>
+      <pubDate>Wed, 19 Sep 2018 15:02:04 -0700</pubDate>
+      <guid>http://localhost:52725/bookworm-light/tags/vmc/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>VMware Cloud on AWS</title>
+      <link>http://localhost:52725/bookworm-light/tags/vmware-cloud-on-aws/</link>
+      <pubDate>Wed, 19 Sep 2018 15:02:04 -0700</pubDate>
+      <guid>http://localhost:52725/bookworm-light/tags/vmware-cloud-on-aws/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Architecture</title>
+      <link>http://localhost:52725/bookworm-light/tags/architecture/</link>
+      <pubDate>Mon, 07 May 2018 14:07:18 -0700</pubDate>
+      <guid>http://localhost:52725/bookworm-light/tags/architecture/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>VCenter Server 6.5</title>
+      <link>http://localhost:52725/bookworm-light/tags/vcenter-server-6.5/</link>
+      <pubDate>Mon, 07 May 2018 14:07:18 -0700</pubDate>
+      <guid>http://localhost:52725/bookworm-light/tags/vcenter-server-6.5/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>VCenter Server 6.7</title>
+      <link>http://localhost:52725/bookworm-light/tags/vcenter-server-6.7/</link>
+      <pubDate>Mon, 07 May 2018 14:07:18 -0700</pubDate>
+      <guid>http://localhost:52725/bookworm-light/tags/vcenter-server-6.7/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>VSphere</title>
+      <link>http://localhost:52725/bookworm-light/tags/vsphere/</link>
+      <pubDate>Tue, 17 Apr 2018 05:02:47 -0700</pubDate>
+      <guid>http://localhost:52725/bookworm-light/tags/vsphere/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>VSphere 6.7</title>
+      <link>http://localhost:52725/bookworm-light/tags/vsphere-6.7/</link>
+      <pubDate>Tue, 17 Apr 2018 05:02:47 -0700</pubDate>
+      <guid>http://localhost:52725/bookworm-light/tags/vsphere-6.7/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>VSphere 6.5</title>
+      <link>http://localhost:52725/bookworm-light/tags/vsphere-6.5/</link>
+      <pubDate>Mon, 19 Mar 2018 11:16:36 -0700</pubDate>
+      <guid>http://localhost:52725/bookworm-light/tags/vsphere-6.5/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>HLM</title>
+      <link>http://localhost:52725/bookworm-light/tags/hlm/</link>
+      <pubDate>Thu, 26 Oct 2017 06:30:45 -0700</pubDate>
+      <guid>http://localhost:52725/bookworm-light/tags/hlm/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hybrid Linked Mode</title>
+      <link>http://localhost:52725/bookworm-light/tags/hybrid-linked-mode/</link>
+      <pubDate>Thu, 26 Oct 2017 06:30:45 -0700</pubDate>
+      <guid>http://localhost:52725/bookworm-light/tags/hybrid-linked-mode/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Migrate2vcsa</title>
+      <link>http://localhost:52725/bookworm-light/tags/migrate2vcsa/</link>
+      <pubDate>Thu, 05 Jan 2017 09:54:36 -0800</pubDate>
+      <guid>http://localhost:52725/bookworm-light/tags/migrate2vcsa/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>VCenter Server Apppliance</title>
+      <link>http://localhost:52725/bookworm-light/tags/vcenter-server-apppliance/</link>
+      <pubDate>Thu, 05 Jan 2017 09:54:36 -0800</pubDate>
+      <guid>http://localhost:52725/bookworm-light/tags/vcenter-server-apppliance/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Appliance</title>
+      <link>http://localhost:52725/bookworm-light/tags/appliance/</link>
+      <pubDate>Mon, 21 Nov 2016 12:42:43 -0800</pubDate>
+      <guid>http://localhost:52725/bookworm-light/tags/appliance/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MacOS</title>
+      <link>http://localhost:52725/bookworm-light/tags/macos/</link>
+      <pubDate>Mon, 21 Nov 2016 12:42:43 -0800</pubDate>
+      <guid>http://localhost:52725/bookworm-light/tags/macos/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>VCSA 6.5</title>
+      <link>http://localhost:52725/bookworm-light/tags/vcsa-6.5/</link>
+      <pubDate>Mon, 21 Nov 2016 12:42:43 -0800</pubDate>
+      <guid>http://localhost:52725/bookworm-light/tags/vcsa-6.5/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>HTML5 Client</title>
+      <link>http://localhost:52725/bookworm-light/tags/html5-client/</link>
+      <pubDate>Fri, 15 Apr 2016 15:53:12 -0700</pubDate>
+      <guid>http://localhost:52725/bookworm-light/tags/html5-client/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Web Client</title>
+      <link>http://localhost:52725/bookworm-light/tags/web-client/</link>
+      <pubDate>Fri, 15 Apr 2016 15:53:12 -0700</pubDate>
+      <guid>http://localhost:52725/bookworm-light/tags/web-client/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ravello</title>
+      <link>http://localhost:52725/bookworm-light/tags/ravello/</link>
+      <pubDate>Mon, 07 Dec 2015 07:00:01 -0800</pubDate>
+      <guid>http://localhost:52725/bookworm-light/tags/ravello/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>VCSA 6.0</title>
+      <link>http://localhost:52725/bookworm-light/tags/vcsa-6.0/</link>
+      <pubDate>Mon, 07 Dec 2015 07:00:01 -0800</pubDate>
+      <guid>http://localhost:52725/bookworm-light/tags/vcsa-6.0/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Upgrade</title>
+      <link>http://localhost:52725/bookworm-light/tags/upgrade/</link>
+      <pubDate>Mon, 14 Sep 2015 08:57:33 -0700</pubDate>
+      <guid>http://localhost:52725/bookworm-light/tags/upgrade/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>OpenStack</title>
+      <link>http://localhost:52725/bookworm-light/tags/openstack/</link>
+      <pubDate>Wed, 12 Aug 2015 08:56:50 -0700</pubDate>
+      <guid>http://localhost:52725/bookworm-light/tags/openstack/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>VIO</title>
+      <link>http://localhost:52725/bookworm-light/tags/vio/</link>
+      <pubDate>Wed, 12 Aug 2015 08:56:50 -0700</pubDate>
+      <guid>http://localhost:52725/bookworm-light/tags/vio/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SyncVM</title>
+      <link>http://localhost:52725/bookworm-light/tags/syncvm/</link>
+      <pubDate>Tue, 21 Apr 2015 09:05:25 -0700</pubDate>
+      <guid>http://localhost:52725/bookworm-light/tags/syncvm/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tintri</title>
+      <link>http://localhost:52725/bookworm-light/tags/tintri/</link>
+      <pubDate>Tue, 21 Apr 2015 09:05:25 -0700</pubDate>
+      <guid>http://localhost:52725/bookworm-light/tags/tintri/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>VCP</title>
+      <link>http://localhost:52725/bookworm-light/tags/vcp/</link>
+      <pubDate>Wed, 01 Apr 2015 09:09:56 -0700</pubDate>
+      <guid>http://localhost:52725/bookworm-light/tags/vcp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>VCP6-DCV</title>
+      <link>http://localhost:52725/bookworm-light/tags/vcp6-dcv/</link>
+      <pubDate>Wed, 01 Apr 2015 09:09:56 -0700</pubDate>
+      <guid>http://localhost:52725/bookworm-light/tags/vcp6-dcv/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Software Manager - Download Service</title>
+      <link>http://localhost:52725/bookworm-light/tags/software-manager---download-service/</link>
+      <pubDate>Fri, 13 Mar 2015 11:49:12 -0700</pubDate>
+      <guid>http://localhost:52725/bookworm-light/tags/software-manager---download-service/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Home Lab</title>
+      <link>http://localhost:52725/bookworm-light/tags/home-lab/</link>
+      <pubDate>Wed, 04 Mar 2015 09:30:16 -0800</pubDate>
+      <guid>http://localhost:52725/bookworm-light/tags/home-lab/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Health Analyzer</title>
+      <link>http://localhost:52725/bookworm-light/tags/health-analyzer/</link>
+      <pubDate>Thu, 19 Feb 2015 12:38:28 -0800</pubDate>
+      <guid>http://localhost:52725/bookworm-light/tags/health-analyzer/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Opvizor</title>
+      <link>http://localhost:52725/bookworm-light/tags/opvizor/</link>
+      <pubDate>Thu, 19 Feb 2015 12:38:28 -0800</pubDate>
+      <guid>http://localhost:52725/bookworm-light/tags/opvizor/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SimpliVity</title>
+      <link>http://localhost:52725/bookworm-light/tags/simplivity/</link>
+      <pubDate>Thu, 12 Feb 2015 10:03:56 -0800</pubDate>
+      <guid>http://localhost:52725/bookworm-light/tags/simplivity/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tech Field Day</title>
+      <link>http://localhost:52725/bookworm-light/tags/tech-field-day/</link>
+      <pubDate>Thu, 12 Feb 2015 10:03:56 -0800</pubDate>
+      <guid>http://localhost:52725/bookworm-light/tags/tech-field-day/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>TFD</title>
+      <link>http://localhost:52725/bookworm-light/tags/tfd/</link>
+      <pubDate>Thu, 12 Feb 2015 10:03:56 -0800</pubDate>
+      <guid>http://localhost:52725/bookworm-light/tags/tfd/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>VFD</title>
+      <link>http://localhost:52725/bookworm-light/tags/vfd/</link>
+      <pubDate>Thu, 12 Feb 2015 10:03:56 -0800</pubDate>
+      <guid>http://localhost:52725/bookworm-light/tags/vfd/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>VFD4</title>
+      <link>http://localhost:52725/bookworm-light/tags/vfd4/</link>
+      <pubDate>Thu, 12 Feb 2015 10:03:56 -0800</pubDate>
+      <guid>http://localhost:52725/bookworm-light/tags/vfd4/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Virtualization Field Day</title>
+      <link>http://localhost:52725/bookworm-light/tags/virtualization-field-day/</link>
+      <pubDate>Fri, 30 Jan 2015 11:30:21 -0800</pubDate>
+      <guid>http://localhost:52725/bookworm-light/tags/virtualization-field-day/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>IaaS</title>
+      <link>http://localhost:52725/bookworm-light/tags/iaas/</link>
+      <pubDate>Tue, 20 Jan 2015 10:03:12 -0800</pubDate>
+      <guid>http://localhost:52725/bookworm-light/tags/iaas/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Identity Appliance</title>
+      <link>http://localhost:52725/bookworm-light/tags/identity-appliance/</link>
+      <pubDate>Tue, 20 Jan 2015 10:03:12 -0800</pubDate>
+      <guid>http://localhost:52725/bookworm-light/tags/identity-appliance/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>VCAC</title>
+      <link>http://localhost:52725/bookworm-light/tags/vcac/</link>
+      <pubDate>Tue, 20 Jan 2015 10:03:12 -0800</pubDate>
+      <guid>http://localhost:52725/bookworm-light/tags/vcac/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>VCAC 6.1</title>
+      <link>http://localhost:52725/bookworm-light/tags/vcac-6.1/</link>
+      <pubDate>Tue, 20 Jan 2015 10:03:12 -0800</pubDate>
+      <guid>http://localhost:52725/bookworm-light/tags/vcac-6.1/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>VRA</title>
+      <link>http://localhost:52725/bookworm-light/tags/vra/</link>
+      <pubDate>Tue, 20 Jan 2015 10:03:12 -0800</pubDate>
+      <guid>http://localhost:52725/bookworm-light/tags/vra/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>VRA 6.2</title>
+      <link>http://localhost:52725/bookworm-light/tags/vra-6.2/</link>
+      <pubDate>Tue, 20 Jan 2015 10:03:12 -0800</pubDate>
+      <guid>http://localhost:52725/bookworm-light/tags/vra-6.2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>VRA Appliance</title>
+      <link>http://localhost:52725/bookworm-light/tags/vra-appliance/</link>
+      <pubDate>Tue, 20 Jan 2015 10:03:12 -0800</pubDate>
+      <guid>http://localhost:52725/bookworm-light/tags/vra-appliance/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>GESTALT IT</title>
+      <link>http://localhost:52725/bookworm-light/tags/gestalt-it/</link>
+      <pubDate>Wed, 14 Jan 2015 09:36:29 -0800</pubDate>
+      <guid>http://localhost:52725/bookworm-light/tags/gestalt-it/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Windows</title>
+      <link>http://localhost:52725/bookworm-light/tags/windows/</link>
+      <pubDate>Mon, 12 Jan 2015 11:05:24 -0800</pubDate>
+      <guid>http://localhost:52725/bookworm-light/tags/windows/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>VRealize</title>
+      <link>http://localhost:52725/bookworm-light/tags/vrealize/</link>
+      <pubDate>Mon, 05 Jan 2015 11:03:37 -0800</pubDate>
+      <guid>http://localhost:52725/bookworm-light/tags/vrealize/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MS SQL</title>
+      <link>http://localhost:52725/bookworm-light/tags/ms-sql/</link>
+      <pubDate>Fri, 12 Dec 2014 11:00:59 -0800</pubDate>
+      <guid>http://localhost:52725/bookworm-light/tags/ms-sql/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SSO</title>
+      <link>http://localhost:52725/bookworm-light/tags/sso/</link>
+      <pubDate>Thu, 13 Nov 2014 10:15:00 -0800</pubDate>
+      <guid>http://localhost:52725/bookworm-light/tags/sso/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Veeam</title>
+      <link>http://localhost:52725/bookworm-light/tags/veeam/</link>
+      <pubDate>Mon, 13 Oct 2014 09:40:32 -0700</pubDate>
+      <guid>http://localhost:52725/bookworm-light/tags/veeam/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>VeeamON</title>
+      <link>http://localhost:52725/bookworm-light/tags/veeamon/</link>
+      <pubDate>Mon, 13 Oct 2014 09:40:32 -0700</pubDate>
+      <guid>http://localhost:52725/bookworm-light/tags/veeamon/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>CMODE</title>
+      <link>http://localhost:52725/bookworm-light/tags/cmode/</link>
+      <pubDate>Fri, 05 Sep 2014 12:00:38 -0700</pubDate>
+      <guid>http://localhost:52725/bookworm-light/tags/cmode/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>NetApp</title>
+      <link>http://localhost:52725/bookworm-light/tags/netapp/</link>
+      <pubDate>Fri, 05 Sep 2014 12:00:38 -0700</pubDate>
+      <guid>http://localhost:52725/bookworm-light/tags/netapp/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

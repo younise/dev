@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>VRA on Emad Younis</title>
+    <link>http://localhost:52725/bookworm-light/tags/vra/</link>
+    <description>Recent content in VRA on Emad Younis</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 20 Jan 2015 10:03:12 -0800</lastBuildDate>
+    <atom:link href="http://localhost:52725/bookworm-light/tags/vra/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Upgrading vRealize Automation 6.1 (formally vCAC) to 6.2</title>
+      <link>http://localhost:52725/bookworm-light/blog/2015-01-20-upgrading-vrealize-automation-6-1-formally-vcac-to-6-2/</link>
+      <pubDate>Tue, 20 Jan 2015 10:03:12 -0800</pubDate>
+      <guid>http://localhost:52725/bookworm-light/blog/2015-01-20-upgrading-vrealize-automation-6-1-formally-vcac-to-6-2/</guid>
+      <description>&lt;p&gt;In a previous post, we created a &lt;a href=&#34;http://emadyounis.com/vmware/windows-repository-for-appliance-updates/&#34; title=&#34;Windows Repository for Offline Appliance Updates&#34;&gt;Windows Server repository &lt;/a&gt;for updates. This repository will serve to upgrade both the Identity Appliance and vRA Appliance(s). Before upgrading we need to ensure backups are in place. I know I’m preaching to the choir, but still need to stress the importance. We are not short of ways to backup the environment using VM snapshots (temporarily) and vSphere data protection to name a few. For SQL using a maintenance plan is also an option. The success of the upgrade relies on following the correct order. The steps below follow a simple deployment model but I will try to add areas where a distributed model differs.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>vRealize Automation 6.1 (formally vCAC) – IaaS Install</title>
+      <link>http://localhost:52725/bookworm-light/blog/2015-01-05-vrealize-automation-6-1-formally-vcac-iaas-install-2/</link>
+      <pubDate>Mon, 05 Jan 2015 11:03:37 -0800</pubDate>
+      <guid>http://localhost:52725/bookworm-light/blog/2015-01-05-vrealize-automation-6-1-formally-vcac-iaas-install-2/</guid>
+      <description>&lt;p&gt;IaaS is the component that allows the creation of blueprints and provisioning to endpoints. It also handles machine life cycle, governance, and decommissioning to name a few. IaaS also has some muscle behind it in regards to extensibility. Before getting too far in this discussion, let’s go through the IaaS installation process.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

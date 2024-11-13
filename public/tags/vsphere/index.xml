@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>VSphere on Emad Younis</title>
+    <link>http://localhost:52725/bookworm-light/tags/vsphere/</link>
+    <description>Recent content in VSphere on Emad Younis</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 17 Apr 2018 05:02:47 -0700</lastBuildDate>
+    <atom:link href="http://localhost:52725/bookworm-light/tags/vsphere/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>vCenter Server 6.7 What&amp;#8217;s New Rundown</title>
+      <link>http://localhost:52725/bookworm-light/blog/2018-04-17-vcenter-server-6-7-whats-new-rundown/</link>
+      <pubDate>Tue, 17 Apr 2018 05:02:47 -0700</pubDate>
+      <guid>http://localhost:52725/bookworm-light/blog/2018-04-17-vcenter-server-6-7-whats-new-rundown/</guid>
+      <description>&lt;p&gt;Today VMware launched &lt;a href=&#34;http://vmw.re/vsphere67launch&#34;&gt;vSphere 6.7&lt;/a&gt; and there are lots of new enhancements in this release. But first the news. This is the final release for both vCenter Server for Windows and the vSphere Web Client (flash). The vCenter Server path is set and has been for a while with the vCenter Server Appliance (VCSA). The vSphere Client (HTLM5) is getting close to feature complete in this release.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>New Resource &amp;#8211; The VMware vSphere 6.5 Upgrade eBook</title>
+      <link>http://localhost:52725/bookworm-light/blog/2018-03-19-new-resource-vmware-vsphere-6-5-upgrade-ebook/</link>
+      <pubDate>Mon, 19 Mar 2018 11:16:36 -0700</pubDate>
+      <guid>http://localhost:52725/bookworm-light/blog/2018-03-19-new-resource-vmware-vsphere-6-5-upgrade-ebook/</guid>
+      <description>&lt;p&gt;Over the past year I have written several blog posts and conducted workshops on vSphere 6.5 upgrades. The intent was to help customers learn about the upgrade concepts and planning. Only by getting familiar with the concepts and planning accordingly will the execution be successful. Part of the upgrade journey is knowing what resources are available, where to find them, and how to use them . It gives me great pleasure to announce “&lt;a href=&#34;https://secure.vmware.com/45026_REG?touch=1&amp;amp;cid=70134000001SpfU&#34;&gt;The Upgrading to VMware vSphere 6.5″ eBook&lt;/a&gt;. This is a new and free resource to help guide VMware customers with all stages of the vSphere 6.5 upgrade process. Let’s take a look on what’s included inside this new resource and help you impress your management and colleagues with your vSphere upgrade knowledge.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>vCenter Server Appliance (VCSA) 6.5 What&amp;#8217;s New Rundown</title>
+      <link>http://localhost:52725/bookworm-light/blog/2016-10-31-vcenter-server-appliance-vcsa-6-5-whats-new-rundown/</link>
+      <pubDate>Mon, 31 Oct 2016 07:05:53 -0700</pubDate>
+      <guid>http://localhost:52725/bookworm-light/blog/2016-10-31-vcenter-server-appliance-vcsa-6-5-whats-new-rundown/</guid>
+      <description>&lt;p&gt;During VMworld Barcelona 2016, VMware announced vSphere 6.5. With lots of new features and updates, this is one of the biggest vSphere releases we have had in a while. Leading the charge is none other than the vCenter Server Appliance (VCSA). VMware’s direction for vCenter Server is the VCSA and it’s quite evident from this release. The VCSA and its Windows counterpart remain on par when it comes to scalability. From an operational and feature perspective, the VCSA has advantages. This post is a quick rundown of the VCSA 6.5, I’ll go into more details in future blog posts. Time to take a look at what’s new and why migrate2vcsa you should 🙂&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>vCenter Server Appliance (VCSA) 6.0 Update 1 Rundown</title>
+      <link>http://localhost:52725/bookworm-light/blog/2015-09-14-vcenter-server-appliance-vcsa-6-0-update-1-rundown/</link>
+      <pubDate>Mon, 14 Sep 2015 08:57:33 -0700</pubDate>
+      <guid>http://localhost:52725/bookworm-light/blog/2015-09-14-vcenter-server-appliance-vcsa-6-0-update-1-rundown/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: #000000;&#34;&gt;&lt;img src=&#34;https://emadyounis.com/assets/img/2015/09/VCSA-Update-1-Main-Image.png?resize=219%2C119&#34; alt=&#34;VCSA Update 1 - Main Image&#34;&gt;VMworld 2015 has come and gone, at least the US version. There were several sessions giving love to vCenter. This included the vCenter Server Appliance (VCSA). Here are a few of the sessions that are worth a look.&lt;/span&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>VMware Integrated OpenStack (VIO) SSO Error</title>
+      <link>http://localhost:52725/bookworm-light/blog/2015-08-12-vmware-integrated-openstack-vio-sso-error/</link>
+      <pubDate>Wed, 12 Aug 2015 08:56:50 -0700</pubDate>
+      <guid>http://localhost:52725/bookworm-light/blog/2015-08-12-vmware-integrated-openstack-vio-sso-error/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://emadyounis.com/assets/img/2015/08/SSO-with-VIO-Graphic.png?resize=309%2C217&#34; alt=&#34;&#34;&gt;Like other VMware products, VIO leverages Single Sign On (SSO). Luckily, the SSO configuration with VIO is fairly simple. When used with vSphere 5.5 it requires IP or FQDN of your vSphere SSO along with port 7444. With vSphere 6.0 you don’t have to use a port, it’s that easy. I ran into this error while installing VIO. Here is the process I went through.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Unsupported VMware Integrated OpenStack (VIO) Configuration</title>
+      <link>http://localhost:52725/bookworm-light/blog/2015-07-15-unsupported-vmware-integrated-openstack-vio-configuration/</link>
+      <pubDate>Wed, 15 Jul 2015 09:00:54 -0700</pubDate>
+      <guid>http://localhost:52725/bookworm-light/blog/2015-07-15-unsupported-vmware-integrated-openstack-vio-configuration/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://emadyounis.com/assets/img/2015/07/VIO-Unsupported-Config1.jpg?resize=264%2C300&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;In a perfect datacenter environment, we would all have an additional area for Dev/Test. This is not always the case and we don’t always have the resources readily available to us. Most of us get creative using what old equipment we have. Some carve out a section in their infrastructure, while others leverage the cloud. Currently I’ve been using &lt;span style=&#34;color: #0000ff;&#34;&gt;&lt;strong&gt;&lt;a href=&#34;http://www.ravellosystems.com/&#34;&gt;Ravello&lt;/a&gt;&lt;/strong&gt;&lt;/span&gt; as my Dev/Test area of my lab for VIO. A VIO production-ready deployment requires a significant amount of resources. These same resources may not be instantly available in some environments. The current deployment architecture of VIO requires 15 VMs with a total of 56CPUs and 192GB RAM; details can be found &lt;strong&gt;&lt;span style=&#34;color: #0000ff;&#34;&gt;&lt;a href=&#34;http://pubs.vmware.com/integrated-openstack-1/topic/com.vmware.ICbase/PDF/integrated-openstack-101-getting-started-guide.pdf&#34;&gt;here&lt;/a&gt;&lt;/span&gt;&lt;/strong&gt;. This doesn’t take into account if you’re using NSX. However, there are a few ways you can be conservative with VIO resources. Let me state up front: the following setup is not supported by VMware for production.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ravello Lab Setup for VMware Integrated OpenStack (VIO) Part 2</title>
+      <link>http://localhost:52725/bookworm-light/blog/2015-06-26-ravello-lab-setup-for-vmware-integrated-openstack-vio-part-2/</link>
+      <pubDate>Fri, 26 Jun 2015 06:33:58 -0700</pubDate>
+      <guid>http://localhost:52725/bookworm-light/blog/2015-06-26-ravello-lab-setup-for-vmware-integrated-openstack-vio-part-2/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://emadyounis.com/assets/img/2015/06/Ravello-with-VIO-Part-2.png?resize=300%2C113&#34; alt=&#34;&#34;&gt;Previously, we talked about the prerequisites (&lt;span style=&#34;color: #0000ff;&#34;&gt;&lt;strong&gt;&lt;a href=&#34;http://emadyounis.com/openstack/ravello-lab-setup-for-vmware-integrated-openstack-vio-part-1/&#34;&gt;link&lt;/a&gt;&lt;/strong&gt;&lt;/span&gt;) needed for a successful VIO deployment. Now that we’ve met them, let’s take things to the next level and deploy VIO. VIO is available at no cost to those who have purchased the following VMware licensing:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ravello Lab Setup for VMware Integrated OpenStack (VIO) Part 1</title>
+      <link>http://localhost:52725/bookworm-light/blog/2015-06-18-ravello-lab-setup-for-vmware-integrated-openstack-vio-part-1/</link>
+      <pubDate>Thu, 18 Jun 2015 07:00:59 -0700</pubDate>
+      <guid>http://localhost:52725/bookworm-light/blog/2015-06-18-ravello-lab-setup-for-vmware-integrated-openstack-vio-part-1/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://emadyounis.com/assets/img/2015/06/Ravello-with-VIO.png?resize=300%2C88&#34; alt=&#34;&#34;&gt;The past few months I have been getting more familiar with &lt;span style=&#34;color: #0000ff;&#34;&gt;&lt;strong&gt;&lt;a href=&#34;https://www.openstack.org/&#34;&gt;OpenStack&lt;/a&gt;&lt;/strong&gt;&lt;/span&gt;. By now it should be obvious that OpenStack will not be going away anytime soon, so it’s time to embrace it. Yes, I’m talking to you VMware admins!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>VMware Integrated OpenStack (VIO) Primer</title>
+      <link>http://localhost:52725/bookworm-light/blog/2015-05-12-vmware-integrated-openstack-vio-primer/</link>
+      <pubDate>Tue, 12 May 2015 10:10:28 -0700</pubDate>
+      <guid>http://localhost:52725/bookworm-light/blog/2015-05-12-vmware-integrated-openstack-vio-primer/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://emadyounis.com/assets/img/2015/05/VIO-1.jpeg?resize=300%2C76&#34; alt=&#34;VIO-1&#34;&gt;Your boss has requested that you look at OpenStack and what it would take to install it into your environment. One of the requirements is to leverage your current VMware infrastructure. Of course your plate is already full, and now you need to learn a new platform. Here are a few things that should ease your mind when considering OpenStack. First, OpenStack is a framework that can use your current hardware and software infrastructure. Second, OpenStack services allow integration at the software layer with vendors like VMware. Finally, OpenStack uses drivers to translate requests to calls on the software infrastructure. Why is this important? Let’s take a look at VMware Integrated OpenStack (VIO) to answer these questions.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>vCenter Appliance (VCSA) 6.0 Scripted Install</title>
+      <link>http://localhost:52725/bookworm-light/blog/2015-03-24-vcenter-appliance-vcsa-6-0-scripted-install/</link>
+      <pubDate>Tue, 24 Mar 2015 15:10:36 -0700</pubDate>
+      <guid>http://localhost:52725/bookworm-light/blog/2015-03-24-vcenter-appliance-vcsa-6-0-scripted-install/</guid>
+      <description>&lt;p&gt;The VCSA 6.0 has two deployment types, guided and scripted. The scripted deployment is now simplified. You are now provided several templates, 5 to be exact. Now You don’t have to just use the default templates you can add to them or even create your own. Getting started is not that hard; once all the necessary information is available. The templates are usable from a command prompt or PowerShell. Let’s walk through how to use both.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Opvizor Health Analyzer Reporting Overview</title>
+      <link>http://localhost:52725/bookworm-light/blog/2015-02-19-opvizor-health-analyzer-reporting-overview/</link>
+      <pubDate>Thu, 19 Feb 2015 12:38:28 -0800</pubDate>
+      <guid>http://localhost:52725/bookworm-light/blog/2015-02-19-opvizor-health-analyzer-reporting-overview/</guid>
+      <description>&lt;p&gt;I recently received my vExpert NFR license from &lt;a href=&#34;http://www.opvizor.com/&#34;&gt;Opvizor&lt;/a&gt; to try their health analyzer tool. For a nice overview of the install process, &lt;a href=&#34;https://twitter.com/mwVme&#34;&gt;Michael White&lt;/a&gt; has a great &lt;a href=&#34;http://notesfrommwhite.net/2015/02/14/getting-opvizor-working-and-is-it-interesting-or-what/&#34;&gt;post&lt;/a&gt;. There really isn’t much to the setup at all, and it is quick and easy to get up and running. Once the setup is complete, the dashboard with your VMware infrastructure info is available. &lt;a href=&#34;https://twitter.com/rogerlund&#34;&gt;Roger Lund&lt;/a&gt; navigates through the dashboard components in this &lt;a href=&#34;http://vbrainstorm.com/opvizor-inside-the-dashboard/&#34;&gt;post&lt;/a&gt;. What I’m really looking to focus on are Opvizor’s reporting capabilities.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>vCenter Appliance (vCSA) 6.0 &amp;#8211; New &amp;#038; Improved</title>
+      <link>http://localhost:52725/bookworm-light/blog/2015-02-02-vcenter-appliance-vcsa-6-0-new-improved/</link>
+      <pubDate>Mon, 02 Feb 2015 15:14:31 -0800</pubDate>
+      <guid>http://localhost:52725/bookworm-light/blog/2015-02-02-vcenter-appliance-vcsa-6-0-new-improved/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://emadyounis.com/assets/img/2015/01/vCenter-6.0.jpg?resize=223%2C205&#34; alt=&#34;vCenter 6.0&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;It’s that time again, a new release of vSphere is upon us. Some features we’ve been waiting for a while now, others are new or revamped. It’s evident that VMware has put effort into the vCenter appliance. In previous releases it was lacking several features needed to make it equal to its Windows Counterpart. Well it seems that VMware has heard the many cries, and the appliance is now, in my opinion, ready for prime time. Let’s take a look at what’s new and you decide if you will be a vCenter 6.0 appliance adopter.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Windows Repository for Offline Appliance Updates</title>
+      <link>http://localhost:52725/bookworm-light/blog/2015-01-12-windows-repository-for-appliance-updates/</link>
+      <pubDate>Mon, 12 Jan 2015 11:05:24 -0800</pubDate>
+      <guid>http://localhost:52725/bookworm-light/blog/2015-01-12-windows-repository-for-appliance-updates/</guid>
+      <description>&lt;p&gt;To take advantage of the new features that vRA 6.2 has to offer, it’s time to upgrade. The upgrade will make it easier to transition from the vCAC branding to vRA. This was also a good time to start thinking about how to go about the process.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>NetApp Simulator Cluster Mode Getting Started Part 3</title>
+      <link>http://localhost:52725/bookworm-light/blog/2014-09-05-netapp-simulator-cluster-mode-getting-started-part-3/</link>
+      <pubDate>Fri, 05 Sep 2014 12:00:38 -0700</pubDate>
+      <guid>http://localhost:52725/bookworm-light/blog/2014-09-05-netapp-simulator-cluster-mode-getting-started-part-3/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;text-decoration: underline;&#34;&gt;&lt;strong&gt;Preparing the **&lt;strong&gt;DataONTAP*&lt;/strong&gt;* 2nd Simulator Node&lt;/strong&gt; &lt;/span&gt;&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Upload the 2nd node simulator files to an existing or create a new datastore.&lt;/li&gt;&#xA;&lt;li&gt;Register the simulator VM (right click .vmx file and register VM).&lt;/li&gt;&#xA;&lt;li&gt;Right click and select edit setting.&lt;/li&gt;&#xA;&lt;li&gt;Under the Virtual Hardware tab, add a new Serial Port device and click add.&lt;a href=&#34;https://emadyounis.com/assets/img/2014/09/NetApp-P3-1.jpg&#34;&gt;&lt;img src=&#34;https://emadyounis.com/assets/img/2014/09/NetApp-P3-1.jpg?resize=599%2C625&#34; alt=&#34;NetApp-P3-1&#34;&gt;&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Change the Serial Port output to “Use named pipe.”&lt;/li&gt;&#xA;&lt;li&gt;Enter the pipe name using the following syntax: &lt;span style=&#34;color: #ff0000;&#34;&gt;&lt;strong&gt;\\. \pipe\”name of simulator folder on datastore”-cons&lt;/strong&gt; &lt;span style=&#34;color: #000000;&#34;&gt;and click OK.&#xA;&lt;a href=&#34;https://emadyounis.com/assets/img/2014/09/NetApp-P3-2.jpg&#34;&gt;&lt;img src=&#34;https://emadyounis.com/assets/img/2014/09/NetApp-P3-2.jpg?resize=602%2C255&#34; alt=&#34;NetApp-P3-2&#34;&gt;&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&#xA;&lt;li&gt;Add a second Serial Port and change the output to “Use named pipe.”&lt;/li&gt;&#xA;&lt;li&gt;Use the same syntax as above for the pipe name, except change the -cons to&lt;span style=&#34;color: #ff0000;&#34;&gt; &lt;strong&gt;-gdb&lt;/strong&gt; &lt;span style=&#34;color: #000000;&#34;&gt;and click OK.&#xA;&lt;a href=&#34;https://emadyounis.com/assets/img/2014/09/NetApp-P3-3.jpg&#34;&gt;&lt;img src=&#34;https://emadyounis.com/assets/img/2014/09/NetApp-P3-3.jpg?resize=600%2C277&#34; alt=&#34;NetApp-P3-3&#34;&gt;&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;&lt;span style=&#34;text-decoration: underline;&#34;&gt;&lt;strong&gt;Booting the DataONTAP Simulator 2nd Node&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>NetApp Simulator Cluster Mode Getting Started Part 2</title>
+      <link>http://localhost:52725/bookworm-light/blog/2014-09-02-netapp-simulator-cluster-mode-getting-started-part-2/</link>
+      <pubDate>Tue, 02 Sep 2014 09:04:15 -0700</pubDate>
+      <guid>http://localhost:52725/bookworm-light/blog/2014-09-02-netapp-simulator-cluster-mode-getting-started-part-2/</guid>
+      <description>&lt;p&gt;The&lt;span style=&#34;color: #0000ff;&#34;&gt; &lt;a href=&#34;http://emadyounis.com/storage/netapp-simulator-cluster-mode-getting-started-part-1/&#34; title=&#34;NetApp Simulator Cluster Mode Getting Started Part 1&#34;&gt;&lt;span style=&#34;color: #0000ff;&#34;&gt;first post&lt;/span&gt;&lt;/a&gt;&lt;/span&gt; in this series discussed how to deploy the NetApp Simulator in your vSphere environment. Now we will move forward with the configuration of the first node &amp;amp; cluster.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>NetApp Simulator Cluster Mode Getting Started Part 1</title>
+      <link>http://localhost:52725/bookworm-light/blog/2014-08-28-netapp-simulator-cluster-mode-getting-started-part-1/</link>
+      <pubDate>Thu, 28 Aug 2014 15:34:32 -0700</pubDate>
+      <guid>http://localhost:52725/bookworm-light/blog/2014-08-28-netapp-simulator-cluster-mode-getting-started-part-1/</guid>
+      <description>&lt;p&gt;Simulators can be very useful tools to learn most of a products features. They can also serve as test platforms for updates, scripts, migrations, etc without the fear of affecting your production environment and causing a resume generating event. NetApp simulates its Data ONTAP software allowing for support for a majority of its functionality within a virtual environment. Supported VMware environments consists of Workstation, Player, Fusion and vSphere. This install process covers deploying the Data ONTAP simulator in cluster mode on a vSphere 5.5 lab environment.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

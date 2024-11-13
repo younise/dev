@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Author on Emad Younis</title>
+    <link>http://localhost:52725/bookworm-light/author/</link>
+    <description>Recent content in Author on Emad Younis</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 26 Jan 2021 10:14:19 +0600</lastBuildDate>
+    <atom:link href="http://localhost:52725/bookworm-light/author/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Emad Younis</title>
+      <link>http://localhost:52725/bookworm-light/author/emad-younis/</link>
+      <pubDate>Tue, 26 Jan 2021 10:14:19 +0600</pubDate>
+      <guid>http://localhost:52725/bookworm-light/author/emad-younis/</guid>
+      <description>&lt;h2 id=&#34;blog&#34;&gt;Blog&lt;/h2&gt;&#xA;&lt;p&gt;&lt;code&gt;emadyounis.com&lt;/code&gt; is the personal blog of Emad Younis. It is dedicated to my views and opinions on the various areas of the datacenter while emphasizing virtualization. It also serves as a learning tool for me to document deployments, configurations, and issues I’ve encountered along the way.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

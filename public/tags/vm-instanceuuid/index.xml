@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>VM InstanceUUID on Emad Younis</title>
+    <link>http://localhost:52725/bookworm-light/tags/vm-instanceuuid/</link>
+    <description>Recent content in VM InstanceUUID on Emad Younis</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 17 Mar 2020 08:12:40 -0700</lastBuildDate>
+    <atom:link href="http://localhost:52725/bookworm-light/tags/vm-instanceuuid/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Uniquely Identifying Virtual Machines In VMware HCX</title>
+      <link>http://localhost:52725/bookworm-light/blog/2020-03-17-uniquely-identifying-virtual-machines-in-vmware-hcx/</link>
+      <pubDate>Tue, 17 Mar 2020 08:12:40 -0700</pubDate>
+      <guid>http://localhost:52725/bookworm-light/blog/2020-03-17-uniquely-identifying-virtual-machines-in-vmware-hcx/</guid>
+      <description>&lt;p&gt;I’ve received several questions lately on what happens to a VM’s Managed Object Reference (MoRef) ID and InstanceUUID when it’s migrated across different vCenter Servers using VMware HCX. This information is essential for anything being used to identify VMs, such as provisioning systems, CMDBs, ticketing systems, and backup solutions are examples of tooling using this information.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

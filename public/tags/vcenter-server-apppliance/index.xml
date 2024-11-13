@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>VCenter Server Apppliance on Emad Younis</title>
+    <link>http://localhost:52725/bookworm-light/tags/vcenter-server-apppliance/</link>
+    <description>Recent content in VCenter Server Apppliance on Emad Younis</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 05 Jan 2017 09:54:36 -0800</lastBuildDate>
+    <atom:link href="http://localhost:52725/bookworm-light/tags/vcenter-server-apppliance/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Printing #migrate2vcsa Stickers and Apparel</title>
+      <link>http://localhost:52725/bookworm-light/blog/2017-01-05-printing-migrate2vcsa-stickers-and-apparel/</link>
+      <pubDate>Thu, 05 Jan 2017 09:54:36 -0800</pubDate>
+      <guid>http://localhost:52725/bookworm-light/blog/2017-01-05-printing-migrate2vcsa-stickers-and-apparel/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: #ff0000;&#34;&gt;&lt;strong&gt;[Updated to include more VCSA and VMware Cloud on AWS Stickers]&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&#xA;&lt;p&gt;Happy New Year! 2016 was a big year for the vCenter Server Appliance (VCSA). We now have officially supported Migration Tools in &lt;strong&gt;&lt;span style=&#34;color: #3366ff;&#34;&gt;&lt;a href=&#34;https://blogs.vmware.com/vsphere/2016/09/vcenter-server-migration-tool-vsphere-6-0-update-2m.html&#34;&gt;vSphere 6.0 U2m&lt;/a&gt;&lt;/span&gt;&lt;/strong&gt; and vSphere 6.5. With the release of vSphere 6.5, the VCSA has surpassed its Windows counterpart in terms of &lt;a href=&#34;http://emadyounis.com/vcenter/vcenter-server-appliance-vcsa-6-5-whats-new-rundown/&#34;&gt;&lt;strong&gt;&lt;span style=&#34;color: #3366ff;&#34;&gt;features and performance&lt;/span&gt;&lt;/strong&gt;&lt;/a&gt;. Then there was the hot swag that debuted at both VMworld US and Barcelona, in the form of stickers and shirts. Yes, there were hoodies too 🙂&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

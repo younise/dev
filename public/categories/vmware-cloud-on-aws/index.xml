@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>VMware Cloud on AWS on Emad Younis</title>
+    <link>http://localhost:52725/bookworm-light/categories/vmware-cloud-on-aws/</link>
+    <description>Recent content in VMware Cloud on AWS on Emad Younis</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 14 May 2018 12:30:39 -0700</lastBuildDate>
+    <atom:link href="http://localhost:52725/bookworm-light/categories/vmware-cloud-on-aws/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Stretched Clusters for VMware Cloud on AWS &amp;#8211; Overview</title>
+      <link>http://localhost:52725/bookworm-light/blog/2018-05-14-stretched-clusters-overview/</link>
+      <pubDate>Mon, 14 May 2018 12:30:39 -0700</pubDate>
+      <guid>http://localhost:52725/bookworm-light/blog/2018-05-14-stretched-clusters-overview/</guid>
+      <description>&lt;p&gt;VMware Cloud on AWS includes resiliency at different layers. We are all familiar with vSphere HA protecting against ESXi host failures. With VMware Cloud on AWS, ESXi hosts reside in an AWS availability zone and are protected by vSphere HA. What about protection for the availability zone the ESXi hosts reside in? While an AWS availability zone failure is a rare occurrence, customers should know they also are protected at this layer as well. A new feature called &lt;a href=&#34;https://cloud.vmware.com/vmc-aws/roadmap&#34;&gt;Stretched Clusters&lt;/a&gt; for VMware Cloud on AWS is designed to protect against an AWS availability zone failure. Now applications can span multiple AWS availability zones within a VMware Cloud on AWS cluster. If an application instance fails the second instance in another availability zone can take over. This, of course, depends on if the application includes this level of availability. Let’s take a look at the Stretched Clusters feature.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Configuring Hybrid Linked Mode (HLM) for VMware Cloud on AWS</title>
+      <link>http://localhost:52725/bookworm-light/blog/2017-10-26-configuring-hybrid-linked-mode-hlm-for-vmware-cloud-on-aws/</link>
+      <pubDate>Thu, 26 Oct 2017 06:30:45 -0700</pubDate>
+      <guid>http://localhost:52725/bookworm-light/blog/2017-10-26-configuring-hybrid-linked-mode-hlm-for-vmware-cloud-on-aws/</guid>
+      <description>&lt;p&gt;Hybrid Linked Mode (HLM) is a brand new feature available only for VMware Cloud on AWS (VMC), which was announced during VMworld US in August 2017. HLM provides the ability to extend an administrator’s management view from on-premises to VMC. This may sound oddly familiar if you are using Enhanced Linked Mode (ELM) in your on-premises environment. There are differences between ELM and HLM in their requirements, how they work, and what problem each is solving. William Lam has a post outlining the differences between the two features &lt;a href=&#34;https://www.virtuallyghetto.com/2017/09/enhanced-linked-mode-elm-vs-hybrid-linked-mode-hlm.html&#34;&gt;here&lt;/a&gt;. This post will go into detail on how to get HLM implemented.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

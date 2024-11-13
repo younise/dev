@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>VMware on Emad Younis</title>
+    <link>http://localhost:52725/bookworm-light/categories/vmware/</link>
+    <description>Recent content in VMware on Emad Younis</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 01 Apr 2015 09:09:56 -0700</lastBuildDate>
+    <atom:link href="http://localhost:52725/bookworm-light/categories/vmware/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>VMware VCP6-DCV Beta Availability</title>
+      <link>http://localhost:52725/bookworm-light/blog/2015-04-01-vmware-vcp6-dcv-beta-availability/</link>
+      <pubDate>Wed, 01 Apr 2015 09:09:56 -0700</pubDate>
+      <guid>http://localhost:52725/bookworm-light/blog/2015-04-01-vmware-vcp6-dcv-beta-availability/</guid>
+      <description>&lt;p&gt;VCP6-DCV is now ready to be taken, well sort of. The exam is in beta and requires authorization. The other thing that I noticed is there is currently no blueprint to download. Instead there are tabs labeled: &lt;strong&gt;Exam Topics&lt;/strong&gt;, &lt;strong&gt;How to Prepare&lt;/strong&gt;, and &lt;strong&gt;Additional Resources&lt;/strong&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>VMware Software Manager &amp;#8211; Download Service 1.0 Released</title>
+      <link>http://localhost:52725/bookworm-light/blog/2015-03-13-vmware-software-manager-download-service-1-0-released/</link>
+      <pubDate>Fri, 13 Mar 2015 11:49:12 -0700</pubDate>
+      <guid>http://localhost:52725/bookworm-light/blog/2015-03-13-vmware-software-manager-download-service-1-0-released/</guid>
+      <description>&lt;p&gt;VMware Software Manager – Download Service 1.0 release coincides with the launch of vSphere 6.0. This tool is to assist with the download management of VMware products. It’s an easy button to download all the bits for a particular suite or individual products. The download catalog is currently limited to the following Datacenter and Cloud infrastructure products:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Windows Repository for Offline Appliance Updates</title>
+      <link>http://localhost:52725/bookworm-light/blog/2015-01-12-windows-repository-for-appliance-updates/</link>
+      <pubDate>Mon, 12 Jan 2015 11:05:24 -0800</pubDate>
+      <guid>http://localhost:52725/bookworm-light/blog/2015-01-12-windows-repository-for-appliance-updates/</guid>
+      <description>&lt;p&gt;To take advantage of the new features that vRA 6.2 has to offer, it’s time to upgrade. The upgrade will make it easier to transition from the vCAC branding to vRA. This was also a good time to start thinking about how to go about the process.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

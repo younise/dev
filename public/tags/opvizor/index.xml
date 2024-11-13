@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Opvizor on Emad Younis</title>
+    <link>http://localhost:52725/bookworm-light/tags/opvizor/</link>
+    <description>Recent content in Opvizor on Emad Younis</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 19 Feb 2015 12:38:28 -0800</lastBuildDate>
+    <atom:link href="http://localhost:52725/bookworm-light/tags/opvizor/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Opvizor Health Analyzer Reporting Overview</title>
+      <link>http://localhost:52725/bookworm-light/blog/2015-02-19-opvizor-health-analyzer-reporting-overview/</link>
+      <pubDate>Thu, 19 Feb 2015 12:38:28 -0800</pubDate>
+      <guid>http://localhost:52725/bookworm-light/blog/2015-02-19-opvizor-health-analyzer-reporting-overview/</guid>
+      <description>&lt;p&gt;I recently received my vExpert NFR license from &lt;a href=&#34;http://www.opvizor.com/&#34;&gt;Opvizor&lt;/a&gt; to try their health analyzer tool. For a nice overview of the install process, &lt;a href=&#34;https://twitter.com/mwVme&#34;&gt;Michael White&lt;/a&gt; has a great &lt;a href=&#34;http://notesfrommwhite.net/2015/02/14/getting-opvizor-working-and-is-it-interesting-or-what/&#34;&gt;post&lt;/a&gt;. There really isn’t much to the setup at all, and it is quick and easy to get up and running. Once the setup is complete, the dashboard with your VMware infrastructure info is available. &lt;a href=&#34;https://twitter.com/rogerlund&#34;&gt;Roger Lund&lt;/a&gt; navigates through the dashboard components in this &lt;a href=&#34;http://vbrainstorm.com/opvizor-inside-the-dashboard/&#34;&gt;post&lt;/a&gt;. What I’m really looking to focus on are Opvizor’s reporting capabilities.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Upgrade on Emad Younis</title>
+    <link>http://localhost:52725/bookworm-light/categories/upgrade/</link>
+    <description>Recent content in Upgrade on Emad Younis</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 19 Mar 2018 11:16:36 -0700</lastBuildDate>
+    <atom:link href="http://localhost:52725/bookworm-light/categories/upgrade/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New Resource &amp;#8211; The VMware vSphere 6.5 Upgrade eBook</title>
+      <link>http://localhost:52725/bookworm-light/blog/2018-03-19-new-resource-vmware-vsphere-6-5-upgrade-ebook/</link>
+      <pubDate>Mon, 19 Mar 2018 11:16:36 -0700</pubDate>
+      <guid>http://localhost:52725/bookworm-light/blog/2018-03-19-new-resource-vmware-vsphere-6-5-upgrade-ebook/</guid>
+      <description>&lt;p&gt;Over the past year I have written several blog posts and conducted workshops on vSphere 6.5 upgrades. The intent was to help customers learn about the upgrade concepts and planning. Only by getting familiar with the concepts and planning accordingly will the execution be successful. Part of the upgrade journey is knowing what resources are available, where to find them, and how to use them . It gives me great pleasure to announce “&lt;a href=&#34;https://secure.vmware.com/45026_REG?touch=1&amp;amp;cid=70134000001SpfU&#34;&gt;The Upgrading to VMware vSphere 6.5″ eBook&lt;/a&gt;. This is a new and free resource to help guide VMware customers with all stages of the vSphere 6.5 upgrade process. Let’s take a look on what’s included inside this new resource and help you impress your management and colleagues with your vSphere upgrade knowledge.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

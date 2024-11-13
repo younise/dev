@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>VRealize Automation on Emad Younis</title>
+    <link>http://localhost:52725/bookworm-light/categories/vrealize-automation/</link>
+    <description>Recent content in VRealize Automation on Emad Younis</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 20 Jan 2015 10:03:12 -0800</lastBuildDate>
+    <atom:link href="http://localhost:52725/bookworm-light/categories/vrealize-automation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Upgrading vRealize Automation 6.1 (formally vCAC) to 6.2</title>
+      <link>http://localhost:52725/bookworm-light/blog/2015-01-20-upgrading-vrealize-automation-6-1-formally-vcac-to-6-2/</link>
+      <pubDate>Tue, 20 Jan 2015 10:03:12 -0800</pubDate>
+      <guid>http://localhost:52725/bookworm-light/blog/2015-01-20-upgrading-vrealize-automation-6-1-formally-vcac-to-6-2/</guid>
+      <description>&lt;p&gt;In a previous post, we created a &lt;a href=&#34;http://emadyounis.com/vmware/windows-repository-for-appliance-updates/&#34; title=&#34;Windows Repository for Offline Appliance Updates&#34;&gt;Windows Server repository &lt;/a&gt;for updates. This repository will serve to upgrade both the Identity Appliance and vRA Appliance(s). Before upgrading we need to ensure backups are in place. I know I’m preaching to the choir, but still need to stress the importance. We are not short of ways to backup the environment using VM snapshots (temporarily) and vSphere data protection to name a few. For SQL using a maintenance plan is also an option. The success of the upgrade relies on following the correct order. The steps below follow a simple deployment model but I will try to add areas where a distributed model differs.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>vRealize Automation 6.1 (formally vCAC) – IaaS Install</title>
+      <link>http://localhost:52725/bookworm-light/blog/2015-01-05-vrealize-automation-6-1-formally-vcac-iaas-install-2/</link>
+      <pubDate>Mon, 05 Jan 2015 11:03:37 -0800</pubDate>
+      <guid>http://localhost:52725/bookworm-light/blog/2015-01-05-vrealize-automation-6-1-formally-vcac-iaas-install-2/</guid>
+      <description>&lt;p&gt;IaaS is the component that allows the creation of blueprints and provisioning to endpoints. It also handles machine life cycle, governance, and decommissioning to name a few. IaaS also has some muscle behind it in regards to extensibility. Before getting too far in this discussion, let’s go through the IaaS installation process.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>vRealize Automation 6.1 (formally vCAC) – Scripted IaaS Database</title>
+      <link>http://localhost:52725/bookworm-light/blog/2014-12-12-vrealize-automation-6-1-formally-vcac-scripted-iaas-database/</link>
+      <pubDate>Fri, 12 Dec 2014 11:00:59 -0800</pubDate>
+      <guid>http://localhost:52725/bookworm-light/blog/2014-12-12-vrealize-automation-6-1-formally-vcac-scripted-iaas-database/</guid>
+      <description>&lt;p&gt;Recently we discussed &lt;a href=&#34;http://emadyounis.com/vrealize-automation/vrealize-automation-6-1-formally-vcac-iaas-database/&#34; title=&#34;vRealize Automation 6.1 (formally vCAC) – IaaS Database&#34;&gt;how to setup the IaaS database&lt;/a&gt;. Did you know there are scripts available to do the IaaS database install? There is a catch to using the scripts to pre-create the IaaS database, anyone? anyone? A pre-created IaaS database will only work with the custom install (distributed) for the IaaS Server. This supports the two scripted methods, but more on that later.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>vRealize Automation 6.1 (formally vCAC) – IaaS Database</title>
+      <link>http://localhost:52725/bookworm-light/blog/2014-12-05-vrealize-automation-6-1-formally-vcac-iaas-database/</link>
+      <pubDate>Fri, 05 Dec 2014 10:00:35 -0800</pubDate>
+      <guid>http://localhost:52725/bookworm-light/blog/2014-12-05-vrealize-automation-6-1-formally-vcac-iaas-database/</guid>
+      <description>&lt;p&gt;Up to this point we had the convenience of deploying appliances for both &lt;a href=&#34;http://emadyounis.com/vrealize-automation/vrealize-automation-6-1-formally-vcloud-automation-center-identity-appliance-deployment-configuration/&#34; title=&#34;vRealize Automation 6.1 (formally vCloud Automation Center) – Identity Appliance – Deployment / Configuration&#34;&gt;SSO&lt;/a&gt; &amp;amp; &lt;a href=&#34;http://emadyounis.com/vrealize-automation/vrealize-automation-6-1-formally-vcac-vra-appliance-deployment-configuration/&#34; title=&#34;vRealize Automation 6.1 (formally vCAC) – vRA Appliance Deployment &amp;amp; Configuration&#34;&gt;vRA&lt;/a&gt;. The deployment of the Infrastructure as a Service (IaaS) requires Microsoft Windows &amp;amp; SQL. IaaS uses Microsoft SQL to maintain information about managed virtual machines and policies. Microsoft SQL can either be a remote server deployment or local with IaaS. So before we can setup IaaS we need to have SQL installed, let’s get started.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>vRealize Automation 6.1 (formally vCAC) – vRA Appliance Deployment &amp;#038; Configuration</title>
+      <link>http://localhost:52725/bookworm-light/blog/2014-11-20-vrealize-automation-6-1-formally-vcac-vra-appliance-deployment-configuration/</link>
+      <pubDate>Thu, 20 Nov 2014 17:43:28 -0800</pubDate>
+      <guid>http://localhost:52725/bookworm-light/blog/2014-11-20-vrealize-automation-6-1-formally-vcac-vra-appliance-deployment-configuration/</guid>
+      <description>&lt;p&gt;At this point we have deployed &amp;amp; configured SSO, of course with HA and backups in mind. The next piece is the vRealize Automation appliance (vRA). The vRA appliance provides cloud management &amp;amp; a self-service portal for vRA. We are now going walk through the deployment and configuration of the appliance.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>vRealize Automation 6.1 (formally vCAC) &amp;#8211; Identity Appliance High Availability &amp;#038; Backup</title>
+      <link>http://localhost:52725/bookworm-light/blog/2014-11-13-vrealize-automation-6-1-formally-vcac-identity-appliance-high-availability-backup/</link>
+      <pubDate>Thu, 13 Nov 2014 10:15:00 -0800</pubDate>
+      <guid>http://localhost:52725/bookworm-light/blog/2014-11-13-vrealize-automation-6-1-formally-vcac-identity-appliance-high-availability-backup/</guid>
+      <description>&lt;p&gt;In a &lt;a href=&#34;http://emadyounis.com/vrealize-automation/vrealize-automation-6-1-formally-vcloud-automation-center-identity-appliance-deployment-configuration/&#34; title=&#34;vRealize Automation 6.1 (formally vCloud Automation Center) – Identity Appliance – Deployment / Configuration&#34;&gt;previous post&lt;/a&gt;, we discussed the importance of SSO as it relates to vRA (vRealize Automation). We also demonstrated how to deploy &amp;amp; configure the vRA identity appliance. Due to the nature of the identity appliance we need to make sure that SSO is in a high available state. There currently is no native HA feature built in, so what are our options for protecting the identity appliance you ask? Here are some options:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>vRealize Automation 6.1 (formally vCloud Automation Center) &amp;#8211; Identity Appliance &amp;#8211; Deployment / Configuration</title>
+      <link>http://localhost:52725/bookworm-light/blog/2014-11-05-vrealize-automation-6-1-formally-vcloud-automation-center-identity-appliance-deployment-configuration/</link>
+      <pubDate>Wed, 05 Nov 2014 11:16:48 -0800</pubDate>
+      <guid>http://localhost:52725/bookworm-light/blog/2014-11-05-vrealize-automation-6-1-formally-vcloud-automation-center-identity-appliance-deployment-configuration/</guid>
+      <description>&lt;p&gt;The introduction of Single Sign On (SSO) in vSphere 5.1 has provided a new major dependency of the infrastructure. SSO provides a secure way of authenticating to your vSphere environment. It not only serves as an authentication broker but also a token exchange, so what does this all mean you? In a nutshell this is a handshake.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

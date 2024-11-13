@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hybrid Cloud Extension on Emad Younis</title>
+    <link>http://localhost:52725/bookworm-light/tags/hybrid-cloud-extension/</link>
+    <description>Recent content in Hybrid Cloud Extension on Emad Younis</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 19 Sep 2018 15:02:04 -0700</lastBuildDate>
+    <atom:link href="http://localhost:52725/bookworm-light/tags/hybrid-cloud-extension/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Learning Hybrid Cloud Extension (HCX) Part 1: Overview</title>
+      <link>http://localhost:52725/bookworm-light/blog/2018-09-19-learning-hybrid-cloud-extension-hcx-part-1-overview/</link>
+      <pubDate>Wed, 19 Sep 2018 15:02:04 -0700</pubDate>
+      <guid>http://localhost:52725/bookworm-light/blog/2018-09-19-learning-hybrid-cloud-extension-hcx-part-1-overview/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://hcx.vmware.com/#/home&#34;&gt;Hybrid Cloud Extension (HCX)&lt;/a&gt; is an all in one solution for workload mobility. Customers can freely move workloads between multiple on-premises environments as well as VMware Cloud on AWS (VMC). During the &lt;a href=&#34;https://www.youtube.com/watch?v=mjYP2IuZK6k&#34;&gt;VMworld US 2018 day 1 keynote&lt;/a&gt; there were several demos shown, one included a data center evacuation using HCX (51:57). The data center evacuation was using a new HCX migration type called Cloud Motion with vSphere Replication. I’ll cover the HCX migration types in a later post. The workloads were being migrated from an on-premises data center to VMware Cloud on AWS (VMC). The big deal here is the impact during the migration to the users was NONE, ZIP, ZERO downtime. And there was also no replatforming of the workloads or applications.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

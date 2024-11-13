@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Upgrade on Emad Younis</title>
+    <link>http://localhost:52725/bookworm-light/tags/upgrade/</link>
+    <description>Recent content in Upgrade on Emad Younis</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 14 Sep 2015 08:57:33 -0700</lastBuildDate>
+    <atom:link href="http://localhost:52725/bookworm-light/tags/upgrade/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>vCenter Server Appliance (VCSA) 6.0 Update 1 Rundown</title>
+      <link>http://localhost:52725/bookworm-light/blog/2015-09-14-vcenter-server-appliance-vcsa-6-0-update-1-rundown/</link>
+      <pubDate>Mon, 14 Sep 2015 08:57:33 -0700</pubDate>
+      <guid>http://localhost:52725/bookworm-light/blog/2015-09-14-vcenter-server-appliance-vcsa-6-0-update-1-rundown/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: #000000;&#34;&gt;&lt;img src=&#34;https://emadyounis.com/assets/img/2015/09/VCSA-Update-1-Main-Image.png?resize=219%2C119&#34; alt=&#34;VCSA Update 1 - Main Image&#34;&gt;VMworld 2015 has come and gone, at least the US version. There were several sessions giving love to vCenter. This included the vCenter Server Appliance (VCSA). Here are a few of the sessions that are worth a look.&lt;/span&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Upgrading vRealize Automation 6.1 (formally vCAC) to 6.2</title>
+      <link>http://localhost:52725/bookworm-light/blog/2015-01-20-upgrading-vrealize-automation-6-1-formally-vcac-to-6-2/</link>
+      <pubDate>Tue, 20 Jan 2015 10:03:12 -0800</pubDate>
+      <guid>http://localhost:52725/bookworm-light/blog/2015-01-20-upgrading-vrealize-automation-6-1-formally-vcac-to-6-2/</guid>
+      <description>&lt;p&gt;In a previous post, we created a &lt;a href=&#34;http://emadyounis.com/vmware/windows-repository-for-appliance-updates/&#34; title=&#34;Windows Repository for Offline Appliance Updates&#34;&gt;Windows Server repository &lt;/a&gt;for updates. This repository will serve to upgrade both the Identity Appliance and vRA Appliance(s). Before upgrading we need to ensure backups are in place. I know I’m preaching to the choir, but still need to stress the importance. We are not short of ways to backup the environment using VM snapshots (temporarily) and vSphere data protection to name a few. For SQL using a maintenance plan is also an option. The success of the upgrade relies on following the correct order. The steps below follow a simple deployment model but I will try to add areas where a distributed model differs.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Windows Repository for Offline Appliance Updates</title>
+      <link>http://localhost:52725/bookworm-light/blog/2015-01-12-windows-repository-for-appliance-updates/</link>
+      <pubDate>Mon, 12 Jan 2015 11:05:24 -0800</pubDate>
+      <guid>http://localhost:52725/bookworm-light/blog/2015-01-12-windows-repository-for-appliance-updates/</guid>
+      <description>&lt;p&gt;To take advantage of the new features that vRA 6.2 has to offer, it’s time to upgrade. The upgrade will make it easier to transition from the vCAC branding to vRA. This was also a good time to start thinking about how to go about the process.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

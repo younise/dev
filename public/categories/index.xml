@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Emad Younis</title>
+    <link>http://localhost:52725/bookworm-light/categories/</link>
+    <description>Recent content in Categories on Emad Younis</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 23 Sep 2020 11:20:22 -0700</lastBuildDate>
+    <atom:link href="http://localhost:52725/bookworm-light/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure VMware Solution</title>
+      <link>http://localhost:52725/bookworm-light/categories/azure-vmware-solution/</link>
+      <pubDate>Wed, 23 Sep 2020 11:20:22 -0700</pubDate>
+      <guid>http://localhost:52725/bookworm-light/categories/azure-vmware-solution/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Google Cloud VMware Engine</title>
+      <link>http://localhost:52725/bookworm-light/categories/google-cloud-vmware-engine/</link>
+      <pubDate>Mon, 06 Jul 2020 11:22:26 -0700</pubDate>
+      <guid>http://localhost:52725/bookworm-light/categories/google-cloud-vmware-engine/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>VMware HCX</title>
+      <link>http://localhost:52725/bookworm-light/categories/vmware-hcx/</link>
+      <pubDate>Tue, 17 Mar 2020 08:12:40 -0700</pubDate>
+      <guid>http://localhost:52725/bookworm-light/categories/vmware-hcx/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Blog</title>
+      <link>http://localhost:52725/bookworm-light/categories/blog/</link>
+      <pubDate>Wed, 18 Dec 2019 10:43:05 -0800</pubDate>
+      <guid>http://localhost:52725/bookworm-light/categories/blog/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>VCenter</title>
+      <link>http://localhost:52725/bookworm-light/categories/vcenter/</link>
+      <pubDate>Mon, 22 Oct 2018 07:29:58 -0700</pubDate>
+      <guid>http://localhost:52725/bookworm-light/categories/vcenter/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hybrid Cloud Extension</title>
+      <link>http://localhost:52725/bookworm-light/categories/hybrid-cloud-extension/</link>
+      <pubDate>Mon, 08 Oct 2018 12:50:03 -0700</pubDate>
+      <guid>http://localhost:52725/bookworm-light/categories/hybrid-cloud-extension/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>VMware Cloud on AWS</title>
+      <link>http://localhost:52725/bookworm-light/categories/vmware-cloud-on-aws/</link>
+      <pubDate>Mon, 14 May 2018 12:30:39 -0700</pubDate>
+      <guid>http://localhost:52725/bookworm-light/categories/vmware-cloud-on-aws/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Upgrade</title>
+      <link>http://localhost:52725/bookworm-light/categories/upgrade/</link>
+      <pubDate>Mon, 19 Mar 2018 11:16:36 -0700</pubDate>
+      <guid>http://localhost:52725/bookworm-light/categories/upgrade/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>OpenStack</title>
+      <link>http://localhost:52725/bookworm-light/categories/openstack/</link>
+      <pubDate>Wed, 12 Aug 2015 08:56:50 -0700</pubDate>
+      <guid>http://localhost:52725/bookworm-light/categories/openstack/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Storage</title>
+      <link>http://localhost:52725/bookworm-light/categories/storage/</link>
+      <pubDate>Tue, 21 Apr 2015 09:05:25 -0700</pubDate>
+      <guid>http://localhost:52725/bookworm-light/categories/storage/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>VMware</title>
+      <link>http://localhost:52725/bookworm-light/categories/vmware/</link>
+      <pubDate>Wed, 01 Apr 2015 09:09:56 -0700</pubDate>
+      <guid>http://localhost:52725/bookworm-light/categories/vmware/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tools</title>
+      <link>http://localhost:52725/bookworm-light/categories/tools/</link>
+      <pubDate>Wed, 04 Mar 2015 09:30:16 -0800</pubDate>
+      <guid>http://localhost:52725/bookworm-light/categories/tools/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tech Field Day</title>
+      <link>http://localhost:52725/bookworm-light/categories/tech-field-day/</link>
+      <pubDate>Thu, 12 Feb 2015 10:03:56 -0800</pubDate>
+      <guid>http://localhost:52725/bookworm-light/categories/tech-field-day/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>VRealize Automation</title>
+      <link>http://localhost:52725/bookworm-light/categories/vrealize-automation/</link>
+      <pubDate>Tue, 20 Jan 2015 10:03:12 -0800</pubDate>
+      <guid>http://localhost:52725/bookworm-light/categories/vrealize-automation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Conference</title>
+      <link>http://localhost:52725/bookworm-light/categories/conference/</link>
+      <pubDate>Mon, 13 Oct 2014 09:40:32 -0700</pubDate>
+      <guid>http://localhost:52725/bookworm-light/categories/conference/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

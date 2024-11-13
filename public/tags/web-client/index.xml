@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web Client on Emad Younis</title>
+    <link>http://localhost:52725/bookworm-light/tags/web-client/</link>
+    <description>Recent content in Web Client on Emad Younis</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 15 Apr 2016 15:53:12 -0700</lastBuildDate>
+    <atom:link href="http://localhost:52725/bookworm-light/tags/web-client/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>vSphere HTML5 Web Client Fling Hidden Features</title>
+      <link>http://localhost:52725/bookworm-light/blog/2016-04-15-vsphere-html5-web-client-fling-hidden-features/</link>
+      <pubDate>Fri, 15 Apr 2016 15:53:12 -0700</pubDate>
+      <guid>http://localhost:52725/bookworm-light/blog/2016-04-15-vsphere-html5-web-client-fling-hidden-features/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://emadyounis.com/assets/img/2016/04/HTML5-Fling-icon-1.1.png?resize=166%2C166&#34; alt=&#34;&#34;&gt;I recently wrote about the &lt;span style=&#34;color: #3366ff;&#34;&gt;&lt;strong&gt;&lt;a href=&#34;http://emadyounis.com/vcenter/new-fling-vsphere-html5-web-client/&#34;&gt;release of the vSphere HTML5 Web Client Fling&lt;/a&gt;&lt;/strong&gt;&lt;/span&gt; and &lt;span style=&#34;color: #3366ff;&#34;&gt;&lt;strong&gt;&lt;a href=&#34;http://blogs.vmware.com/vsphere/2016/03/vsphere-html5-web-client-fling-getting-started.html&#34;&gt;how to configure&lt;/a&gt;&lt;/strong&gt; &lt;/span&gt;it. Since then there has already been an &lt;strong&gt;&lt;span style=&#34;color: #3366ff;&#34;&gt;&lt;a href=&#34;https://labs.vmware.com/flings/vsphere-html5-web-client&#34;&gt;update to the Fling&lt;/a&gt;&lt;/span&gt;&lt;/strong&gt;. I’ve gone through update process in my lab using the rpm, but I also decided to deploy a new OVA (version 1.1) and found a few hidden features.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>New Fling: vSphere HTML5 Web Client</title>
+      <link>http://localhost:52725/bookworm-light/blog/2016-03-28-new-fling-vsphere-html5-web-client/</link>
+      <pubDate>Mon, 28 Mar 2016 10:41:02 -0700</pubDate>
+      <guid>http://localhost:52725/bookworm-light/blog/2016-03-28-new-fling-vsphere-html5-web-client/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://emadyounis.com/assets/img/2016/03/HTML5-Fling-icon.png?resize=166%2C166&#34; alt=&#34;&#34;&gt;VMware first introduced the vSphere Web Client with the release of vSphere 5.0. The vSphere Web Client would be the future management tool replacing the vSphere client aka “Legacy, Thick or C# Client”. This would be become more evident over time with each release of vSphere. New features could only be managed through the vSphere Web Client. While the concept of a browser based client is a step in the right direction, the dependency of flash was not. Keep in mind the decision to use flash was made when it was the standard for web applications, times and standards have changed. With that change it has taken some time to work on replatforming the vSphere Web Client. This always leads to the question, when will we see a HTML5 version of the Web Client? I’m happy to announce the wait is over!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
